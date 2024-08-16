@@ -2,7 +2,7 @@
 
 # 🚀 Gopher
 
-Gopher is a collection of code snippets and examples that I've created while learning Go. 
+Gopher is a set of code snippets and examples that I put together while learning Go. 
 
 ## ✨ Features
 
