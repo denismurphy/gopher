@@ -15,10 +15,6 @@ Gopher is a set of code snippets and examples that I put together while learning
 - 🧮 Math utilities
 - 🔤 String manipulation
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request. 👍
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the LICENSE file for details. ⚖️
